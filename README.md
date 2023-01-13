@@ -2,7 +2,6 @@
 
 - 🔭 Computer Science Undergraduate
 - 🌱 Currently learning Game Development
-- 📫 How to reach me: e-mail me on luizh.keiroz@gmail.com
 
 <br>
 
