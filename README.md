@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 Computer Science Undergraduate
-- 🌱 Currently learning Game Development
 
 <br>
 
@@ -10,8 +9,6 @@
 <div style="display: inline_block"><br>
 
   <img align="center" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 </div>
 
 ##
